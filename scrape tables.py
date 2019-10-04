@@ -2,7 +2,7 @@
 """
 Created on Thu Oct  3 11:17:51 2019
 
-@author: zhuoli
+@author: John
 """
 
 #!pip install camelot-py[cv]
